@@ -119,7 +119,7 @@ O aplicativo envia uma requisição POST para a url informada e com o body defin
 
 ## Tecnologias Utilizadas
 
-- Java 11
+- Java 17
 - Spring Boot 2.5
 - Spring Data JPA
 - H2 Database
